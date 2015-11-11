@@ -1,0 +1,285 @@
+/* ==========================================================================
+	Imports
+/* ========================================================================== */
+/* ==========================================================================
+	Variables
+/* ========================================================================== */
+/* Directories */
+/* Colors */
+/* Font Sizes */
+/*----------  Fonts  ----------*/
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,900,300);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,900,300);
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section, article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+nav,
+section,
+summary {
+  display: block;
+}
+
+audio,
+canvas,
+video {
+  display: inline-block;
+}
+
+audio:not([controls]) {
+  display: none;
+  height: 0;
+}
+
+[hidden] {
+  display: none;
+}
+
+abbr[title] {
+  border-bottom: 1px dotted;
+}
+
+b,
+strong {
+  font-weight: bold;
+}
+
+blockquote {
+  margin: 1em 2.5em;
+}
+
+dfn {
+  font-style: italic;
+}
+
+mark {
+  background: #fff;
+  color: #444;
+}
+
+code,
+kbd,
+pre,
+samp {
+  font-family: monospace, serif;
+  _font-family: 'courier new', monospace;
+  font-size: 1em;
+}
+
+pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+q {
+  quotes: none;
+}
+
+q:before,
+q:after {
+  content: '';
+  content: none;
+}
+
+small {
+  font-size: 80%;
+}
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+svg:not(:root) {
+  overflow: hidden;
+}
+
+figure {
+  margin: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+nav ul,
+nav ol {
+  list-style: none;
+  list-style-image: none;
+  padding: 0;
+  margin: 0;
+}
+
+img {
+  border: 0;
+  -ms-interpolation-mode: bicubic;
+  vertical-align: middle;
+}
+
+/* ==========================================================================
+	Print styles.
+	Inlined to avoid required HTTP connection: h5bp.com/r
+/* ========================================================================== */
+@media print {
+  * {
+    background: transparent !important;
+    color: #000 !important;
+    box-shadow: none !important;
+    text-shadow: none !important;
+  }
+
+  a,
+  a:visited {
+    text-decoration: underline;
+  }
+
+  a[href]:after {
+    content: " (" attr(href) ")";
+  }
+
+  abbr[title]:after {
+    content: " (" attr(title) ")";
+  }
+
+  .ir a:after,
+  a[href^="javascript:"]:after,
+  a[href^="#"]:after {
+    content: "";
+  }
+
+  pre,
+  blockquote {
+    border: 1px solid #444;
+    page-break-inside: avoid;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  tr,
+  img {
+    page-break-inside: avoid;
+  }
+
+  img {
+    max-width: 100% !important;
+  }
+
+  @page {
+    margin: 0.5cm;
+  }
+  p,
+  h2,
+  h3 {
+    orphans: 3;
+    widows: 3;
+  }
+
+  h2,
+  h3 {
+    page-break-after: avoid;
+  }
+}
+/* ==========================================================================
+	Variables
+/* ========================================================================== */
+/* Directories */
+/* Colors */
+/* Font Sizes */
+/*----------  Fonts  ----------*/
+header {
+  padding: 20px 60px;
+}
+
+section {
+  min-height: 440px;
+}
+
+footer {
+  color: #fff;
+  background-color: #444;
+  padding: 20px 0 60px 0;
+  border-top: 15px solid #333;
+}
+
+.container {
+  width: 970px;
+}
+
+body {
+  background-color: #21a9e2;
+}
+
+/*----------  major sections  ----------*/
+#private-beta {
+  background-color: #fff;
+  color: #444;
+  text-align: center;
+}
+#private-beta form {
+  text-align: left;
+}
+
+#team {
+  text-align: center;
+}
+#team img {
+  width: 130px;
+  height: 130px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+/*----------  Global Nav  ----------*/
+a#beta-button {
+  margin-top: -35px;
+}
+
+/*----------  typography  ----------*/
+h1, h2, h3 {
+  font-family: 'Raleway';
+}
+
+section h3 {
+  font-size: 48px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+/*----------  Swiper  ----------*/
+.swiper-container {
+  height: 420px;
+}
+
+/* ==========================================================================
+	Base
+/* ========================================================================== */
+
+/*# sourceMappingURL=global.css.map */
