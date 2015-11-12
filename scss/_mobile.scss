@@ -28,7 +28,82 @@
   body {
     font-size: 12px;
   }
-  p.tagline {
+  #tagline {
     font-size: 20px;
   }
+header {
+  padding: 8px 8px 20px 8px;
+  background-color: darken($color_primary, 25%);
+  img {
+    width: 20%;
+    height: 20%;
+  }
+  a#beta-button {
+    font-size: 90%;
+    padding: 2px 8px;
+    margin-top: -8px;
+  }
+}
+
+
+/*----------  Swiper  ----------*/
+.swiper-container {
+  height: 300px;
+  width: 100%;
+}
+
+.swiper-slide {
+  font-family: 'Raleway';
+  p {
+    font-size: 24px;
+    color: darken($color_primary, 40%);
+    padding: 6px 0 0 0;
+  }
+}
+
+#f0 {
+  background: url($images_dir + 'test/f0.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#f1 {
+  background: url($images_dir + 'test/f1.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#f2 {
+  background: url($images_dir + 'test/f2.png') no-repeat;
+  background-size: cover;
+  background-position: left;
+  p {
+    text-align: center;
+  }
+}
+
+#f3 {
+  background: url($images_dir + 'test/f3.png') no-repeat;
+  background-size: cover;
+  background-position: left;
+  p {
+    text-align: center;
+  } 
+}
+
+#f4 {
+  background: url($images_dir + 'test/f4.png') no-repeat;
+  background-size: cover;
+  background-position: center;
+  p {
+    text-align: center;
+  }
+}
+
+#private-beta {
+  h3 {
+    font-size: 22px;
+  }
+}
+
 }
