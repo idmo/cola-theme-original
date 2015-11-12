@@ -66,7 +66,7 @@
 				<p>Experience: Founder MacroMind / Macromedia, Interactive Music pioneer, Digital City Project</p>
 			</div>
 			<div class="col-sm-4">
-				<img src="wp-content/themes/cola-theme/images/mike-mcevoy.jpg" alt="Mike McEvoy" class="img-responsive img-circle">
+				<img src="/wp-content/themes/cola-theme/images/mike-mcevoy.jpg" alt="Mike McEvoy" class="img-responsive img-circle">
 				<h4>Mike McEvoy</h4>
 				<p>Experience: VP of Engineering, Johnson &amp; Johnson, Adobe Photoshop team</p>
 			</div>
@@ -78,17 +78,17 @@
 				<p>Experience: Founder Quake Labs, iPhone and iPad teams, @Home, Apple Newton</p>
 			</div>
 			<div class="col-sm-3">
-				<img src="wp-content/themes/cola-theme/images/brian-maggi.jpg" alt="Brian Maggi" class="img-responsive img-circle">
+				<img src="/wp-content/themes/cola-theme/images/brian-maggi.jpg" alt="Brian Maggi" class="img-responsive img-circle">
 				<h4>Brian Maggi</h4>
 				<p>Experience: Founder Postini, Apple Newton and iMac teams</p>
 			</div>
 			<div class="col-sm-3">
-				<img src="wp-content/themes/cola-theme/images/tom-broadbent.jpg" alt="Tom Broadbent" class="img-responsive img-circle">
+				<img src="/wp-content/themes/cola-theme/images/tom-broadbent.jpg" alt="Tom Broadbent" class="img-responsive img-circle">
 				<h4>Tom Broadbent</h4>
 				<p>Experience: Northrup Grumman, Zing, Dell, Plastic Logic, PayPal, Duff</p>
 			</div>
 			<div class="col-sm-3">
-				<img src="wp-content/themes/cola-theme/images/dave-good.jpg" alt="Dave Good" class="img-responsive img-circle">
+				<img src="/wp-content/themes/cola-theme/images/dave-good.jpg" alt="Dave Good" class="img-responsive img-circle">
 				<h4>Dave Good</h4>
 				<p>Experience: Engineering Director PayPal and Eventbrite, Partner Duff, Microsoft, Adobe</p>
 			</div>
@@ -105,7 +105,7 @@
 				<p>Oliver got through Apple and Nest. He’ll get through this</p>
 			</div>
 			<div class="col-sm-4">
-				<img src="wp-content/themes/cola-theme/images/max-carlson.jpg" alt="Max Carlson" class="img-responsive img-circle">
+				<img src="/wp-content/themes/cola-theme/images/max-carlson.jpg" alt="Max Carlson" class="img-responsive img-circle">
 				<h4>Max Carlson</h4>
 				<p>Experience: Laszlo, @Home, Nest</p>
 			</div>
