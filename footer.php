@@ -3,11 +3,7 @@
 		<div class="row">
 			<div class="col-md-12">
 				<div class="pull-right social">
-<<<<<<< HEAD
 					<a href="https://www.facebook.com/colahq"><i class="fa fa-facebook-official fa-2x"></i></a>
-=======
-					<a href="https://www.facebook.com/hq"><i class="fa fa-facebook-official fa-2x"></i></a>
->>>>>>> 4ef8b9da5f0ba71fce13cb1ba916317d777c4b5f
 					<a href="https://twitter.com/colahq"><i class="fa fa-twitter-square fa-2x"></i></a>
 					<a href="https://www.linkedin.com/company/cola-io"><i class="fa fa-linkedin-square fa-2x"></i></a>
 				</div>
