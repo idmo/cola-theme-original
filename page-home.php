@@ -9,26 +9,26 @@
     <div class="swiper-wrapper">
         <!-- Slides -->
         <div class="swiper-slide" id="f0">
-        	<p>You know the drill</p>
+        	<p>You know the drill.</p>
         </div>
         <div class="swiper-slide" id="f1">
-        	<p>You know the drill<br>
-        	Just one small quesiton</p>
+        	<p>You know the drill.<br>
+        	Just one small question&hellip;</p>
         </div>
         <div class="swiper-slide" id="f2">
-        	<p>Can lead to a hundred texts</p>
+        	<p>&hellip;can lead to a hundred texts</p>
         </div>
         <div class="swiper-slide" id="f3">
-        	<p>Can lead to a hundred texts<br>
-        	And jumping in and out of apps</p>
+        	<p>&hellip;can lead to a hundred texts<br>
+        	and pogo-sticking in and out of multiple apps.</p>
         </div>
         <div class="swiper-slide" id="f4">
-        	<p>Cola turns those 100 frustrating texts into one useful Bubble</p>
-        </div>
-        <div class="swiper-slide" id="f5">
+        	<p>One Cola Bubble does the job of dozens of texts.</p>
         </div>
     </div>
     <div class="swiper-pagination"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
 </div>
 
 <section id="tagline">
@@ -43,7 +43,7 @@
 
 <section id="private-beta">
 <div class="container">
-	<h3>Sign up for the private beta</h3>
+	<h3>Sign up for the private iPhone beta</h3>
 	<?php get_template_part('loop', 'home'); ?>
 </div>
 </section>
