@@ -11,8 +11,10 @@ require(['jquery'], function($) {
 
 	var mySwiper = new Swiper('.swiper-container', {
 	loop: true,
-	autoplay: '4000',
+	autoplay: '2000',
 	pagination: '.swiper-pagination',
 	nextButton: '.swiper-button-next',
-	prevButton: '.swiper-button-prev'
-});
+	prevButton: '.swiper-button-prev',
+	direction: 'vertical',
+	effect: 'fade'
+	});

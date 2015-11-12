@@ -9,7 +9,9 @@
 /* Font Sizes */
 /*----------  Fonts  ----------*/
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,900,300);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,900,300);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
 article,
 aside,
 details,
@@ -230,7 +232,7 @@ footer {
 }
 
 .container {
-  width: 970px;
+  width: 1030px;
 }
 
 body {
@@ -249,12 +251,17 @@ body {
 
 #team {
   text-align: center;
+  background-color: #e7e7e7;
 }
 #team img {
   width: 130px;
   height: 130px;
   text-align: center;
   margin: 0 auto;
+}
+#team .row {
+  margin-bottom: 12px;
+  padding-bottom: 12px;
 }
 
 /*----------  Global Nav  ----------*/
@@ -275,7 +282,45 @@ section h3 {
 
 /*----------  Swiper  ----------*/
 .swiper-container {
-  height: 420px;
+  height: 600px;
+  width: 100%;
+}
+
+.swiper-slide {
+  font-family: 'Amatic SC';
+  background-position: center;
+}
+.swiper-slide p {
+  font-size: 72px;
+  color: #fff;
+  padding-left: 60px;
+}
+
+#f0 {
+  background: url("/wp-content/themes/cola-theme/images/test/f0.png") no-repeat;
+}
+
+#f1 {
+  background: url("/wp-content/themes/cola-theme/images/test/f1.png") no-repeat;
+}
+
+#f2 {
+  background: url("/wp-content/themes/cola-theme/images/test/f2.png") no-repeat;
+}
+
+#f3 {
+  background: url("/wp-content/themes/cola-theme/images/test/f3.png") no-repeat;
+}
+
+#f4 {
+  background: url("/wp-content/themes/cola-theme/images/test/f4.png") no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#f4 p {
+  text-align: center;
+  font-size: 90;
+  color: #21a9e2;
 }
 
 /* ==========================================================================

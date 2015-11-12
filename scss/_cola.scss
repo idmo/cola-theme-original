@@ -14,7 +14,7 @@ footer {
 }
 
 .container {
-	width: 970px;
+	width: 1030px;
 }
 
 
@@ -41,6 +41,11 @@ body {
 		margin: 0 auto;
 	}
 	text-align: center;
+	background-color: #e7e7e7;
+	.row {
+		margin-bottom: 12px;
+		padding-bottom: 12px;
+	}
 }
 
 
@@ -63,5 +68,43 @@ section h3 {
 
 /*----------  Swiper  ----------*/
 .swiper-container {
-	height: 420px;
+	height: 600px;
+	width: 100%;
+}
+
+.swiper-slide {
+	font-family: 'Amatic SC';
+	background-position: center;
+	p {
+		font-size: 72px;
+		color: #fff;
+		padding-left: 60px;	
+	}
+}
+
+#f0 {
+	background: url($images_dir + 'test/f0.png') no-repeat;
+}
+
+#f1 {
+	background: url($images_dir + 'test/f1.png') no-repeat;
+}
+
+#f2 {
+	background: url($images_dir + 'test/f2.png') no-repeat;
+}
+
+#f3 {
+	background: url($images_dir + 'test/f3.png') no-repeat;
+}
+
+#f4 {
+	background: url($images_dir + 'test/f4.png') no-repeat;
+	background-size: cover;
+	background-position: center;
+	p {
+		text-align: center;
+		font-size: 90;
+		color: $color_primary;
+	}
 }

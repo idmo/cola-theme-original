@@ -2,8 +2,8 @@
 	Variables
 /* ========================================================================== */
 /* Directories */
-$theme_dir: '/wp-content/themes/cola/';
-$images_dir: '/wp-content/themes/cola/images/';
+$theme_dir: '/wp-content/themes/cola-theme/';
+$images_dir: '/wp-content/themes/cola-theme/images/';
 
 /* Colors */
 $color_body_copy: #444;
@@ -18,3 +18,4 @@ $size_base: 1em;
 
 /*----------  Fonts  ----------*/
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,900,300);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);
