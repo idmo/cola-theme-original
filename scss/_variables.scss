@@ -10,6 +10,9 @@ $color_body_copy: #444;
 $color_link: #26527c;
 $color_opposite: #fff;
 $color_primary: rgba(33, 169, 226, 1.0);
+$color_black: #000;
+$color_white: #fff;
+$color_bright: rgba(220, 220, 220, 1.0);
 
 /* Font Sizes */
 $size_base: 1em;
@@ -18,4 +21,3 @@ $size_base: 1em;
 
 /*----------  Fonts  ----------*/
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,900,300);
-@import url(https://fonts.googleapis.com/css?family=Amatic+SC:400,700);

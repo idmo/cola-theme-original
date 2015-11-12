@@ -1,9 +1,7 @@
 header {
-	padding: 20px 60px;
-}
-
-section {
-	min-height: 440px;
+	padding: 40px 60px;
+	background-color: darken($color_primary, 25%);
+	padding: 30px 30px;
 }
 
 footer {
@@ -13,17 +11,26 @@ footer {
 	border-top: 15px solid #333;
 }
 
-.container {
-	width: 1030px;
-}
+
 
 
 body {
 	background-color: $color_primary;
 }
 
+section {
+	padding-bottom: 20px;
+}
 
 /*----------  major sections  ----------*/
+#tagline {
+	background-color: darken($color_primary, 40%);
+	text-align: center;
+	color: $color_white;
+	font-size: 200%;
+	font-family: "Raleway";
+	padding: 20px 0;
+}
 #private-beta {
 	background-color: #fff;
 	color: #444;
@@ -45,6 +52,9 @@ body {
 	.row {
 		margin-bottom: 12px;
 		padding-bottom: 12px;
+	}
+	.img-circle {
+		border: 6px solid $color_primary;
 	}
 }
 
@@ -68,34 +78,47 @@ section h3 {
 
 /*----------  Swiper  ----------*/
 .swiper-container {
-	height: 600px;
+	height: 480px;
 	width: 100%;
 }
 
 .swiper-slide {
-	font-family: 'Amatic SC';
-	background-position: center;
+	font-family: 'Raleway';
 	p {
-		font-size: 72px;
-		color: #fff;
-		padding-left: 60px;	
+		font-size: 44px;
+		color: darken($color_primary, 40%);
+		padding: 50px 0 0 60px;
 	}
 }
 
 #f0 {
 	background: url($images_dir + 'test/f0.png') no-repeat;
+	background-size: cover;
+	background-position: left;
 }
 
 #f1 {
 	background: url($images_dir + 'test/f1.png') no-repeat;
+	background-size: cover;
+	background-position: left;
 }
 
 #f2 {
 	background: url($images_dir + 'test/f2.png') no-repeat;
+	background-size: cover;
+	background-position: left;
+	p {
+		text-align: center;
+	}
 }
 
 #f3 {
 	background: url($images_dir + 'test/f3.png') no-repeat;
+	background-size: cover;
+	background-position: left;
+	p {
+		text-align: center;
+	}	
 }
 
 #f4 {
@@ -104,7 +127,5 @@ section h3 {
 	background-position: center;
 	p {
 		text-align: center;
-		font-size: 90;
-		color: $color_primary;
 	}
 }
