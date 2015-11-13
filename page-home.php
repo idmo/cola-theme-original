@@ -102,7 +102,7 @@
 			<div class="col-sm-4">
 				<img src="/wp-content/themes/cola-theme/images/oliver-steele.png" alt="Oliver Steele" class="img-responsive img-circle">
 				<h4>Oliver Steele</h4>
-				<p>CTO, Chief Software Architect, Directof of Product Management; Apple, Nest, AOL, Laszlo.</p>
+				<p>CTO, Chief Software Architect, Director of Product Management; Apple, Nest, AOL, Laszlo.</p>
 			</div>
 			<div class="col-sm-4">
 				<img src="/wp-content/themes/cola-theme/images/max-carlson.jpg" alt="Max Carlson" class="img-responsive img-circle">
