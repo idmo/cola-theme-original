@@ -7,7 +7,8 @@
 					<a href="https://twitter.com/cola_inc"><i class="fa fa-twitter-square fa-2x"></i></a>
 					<a href="https://www.linkedin.com/company/cola-io"><i class="fa fa-linkedin-square fa-2x"></i></a>
 				</div>
-				<p>Copyright &copy; 2015 Cola, Inc. All rights reserved.</p>				
+				<p>Copyright &copy; 2015 Cola, Inc. All rights reserved.</p>
+				<p><a href="/contact">Contact Us</a></p>				
 			</div>
 		</div>
 	</div>

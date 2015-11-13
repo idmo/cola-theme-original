@@ -20,10 +20,10 @@
         </div>
         <div class="swiper-slide" id="f3">
         	<p>&hellip;can lead to a hundred texts<br>
-        	and pogo-sticking in and out of multiple apps.</p>
+        	and pogo-sticking in and out of apps.</p>
         </div>
         <div class="swiper-slide" id="f4">
-        	<p>One Cola Bubble does the job of dozens of texts.</p>
+        	<p>One Cola Bubble does the<br />job of dozens of texts.</p>
         </div>
     </div>
     <div class="swiper-pagination"></div>
@@ -58,56 +58,56 @@
 			<div class="col-sm-4">
 				<img src="https://media.licdn.com/media/p/2/005/009/0a5/0058350.jpg" alt="David Temkin" class="img-responsive img-circle">
 				<h4>David Temkin, CEO</h4>
-				<p>Experience: Founder Laszlo Systems, Worked at Apple, AOL, Studied at Brown </p>
+				<p>Founder Laszlo Systems, Worked at Apple, AOL, Studied at Brown </p>
 			</div>
 			<div class="col-sm-4">
 				<img src="https://media.licdn.com/media/p/3/000/003/108/1a69531.jpg" alt="Marc Canter" class="img-responsive img-circle">
 				<h4>Marc Canter</h4>
-				<p>Experience: Founder MacroMind / Macromedia, Interactive Music pioneer, Digital City Project</p>
+				<p>Founder MacroMind / Macromedia, Interactive Music pioneer, Digital City Project</p>
 			</div>
 			<div class="col-sm-4">
 				<img src="/wp-content/themes/cola-theme/images/mike-mcevoy.jpg" alt="Mike McEvoy" class="img-responsive img-circle">
 				<h4>Mike McEvoy</h4>
-				<p>Experience: VP of Engineering, Johnson &amp; Johnson, Adobe Photoshop team</p>
+				<p>VP of Engineering, Johnson &amp; Johnson, Adobe Photoshop team</p>
 			</div>
 		</div><!-- end row 1 -->
 		<div class="row">
 			<div class="col-sm-3">
 				<img src="https://media.licdn.com/media/p/8/000/1ac/18a/217c0bb.jpg" alt="Jeremy Wyld" class="img-responsive img-circle">
 				<h4>Jeremy Wyld</h4>
-				<p>Experience: Founder Quake Labs, iPhone and iPad teams, @Home, Apple Newton</p>
+				<p>Founder Quake Labs, iPhone and iPad teams, @Home, Apple Newton</p>
 			</div>
 			<div class="col-sm-3">
 				<img src="/wp-content/themes/cola-theme/images/brian-maggi.jpg" alt="Brian Maggi" class="img-responsive img-circle">
 				<h4>Brian Maggi</h4>
-				<p>Experience: Founder Postini, Apple Newton and iMac teams</p>
+				<p>Founder Postini, Apple Newton and iMac teams</p>
 			</div>
 			<div class="col-sm-3">
 				<img src="/wp-content/themes/cola-theme/images/tom-broadbent.jpg" alt="Tom Broadbent" class="img-responsive img-circle">
 				<h4>Tom Broadbent</h4>
-				<p>Experience: Northrup Grumman, Zing, Dell, Plastic Logic, PayPal, Duff</p>
+				<p>Northrup Grumman, Zing, Dell, Plastic Logic, PayPal, Duff</p>
 			</div>
 			<div class="col-sm-3">
 				<img src="/wp-content/themes/cola-theme/images/dave-good.jpg" alt="Dave Good" class="img-responsive img-circle">
 				<h4>Dave Good</h4>
-				<p>Experience: Engineering Director PayPal and Eventbrite, Partner Duff, Microsoft, Adobe</p>
+				<p>Engineering Director PayPal and Eventbrite, Partner Duff, Microsoft, Adobe</p>
 			</div>
 		</div>
 		<div class="row">
 			<div class="col-sm-4">
 				<img src="https://media.licdn.com/media/AAEAAQAAAAAAAAJkAAAAJDBmMTVkOWNjLTc2MzYtNGNjZi05NzJiLWUzNzU0MTM5YTEyYQ.jpg" alt="Erin Rosenthal" class="img-responsive img-circle">
 				<h4>Erin Rosenthal</h4>
-				<p>Experience: Apple iPhone and iPad teams, Google Keep Team</p>
+				<p>Apple iPhone and iPad teams, Google Keep Team</p>
 			</div>
 			<div class="col-sm-4">
-				<img src="https://media.licdn.com/media/p/1/000/20b/350/2417bd8.jpg" alt="Oliver Steele" class="img-responsive img-circle">
+				<img src="/wp-content/themes/cola-theme/images/oliver-steele.png" alt="Oliver Steele" class="img-responsive img-circle">
 				<h4>Oliver Steele</h4>
-				<p>Oliver got through Apple and Nest. He’ll get through this</p>
+				<p>CTO, Chief Software Architect, Direct of Product Management; Apple, Nest, AOL, Laszlo.</p>
 			</div>
 			<div class="col-sm-4">
 				<img src="/wp-content/themes/cola-theme/images/max-carlson.jpg" alt="Max Carlson" class="img-responsive img-circle">
 				<h4>Max Carlson</h4>
-				<p>Experience: Laszlo, @Home, Nest</p>
+				<p>Laszlo, @Home, Nest</p>
 			</div>
 		</div>
 	</div>
