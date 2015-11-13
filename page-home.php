@@ -75,7 +75,7 @@
 			<div class="col-sm-3">
 				<img src="https://media.licdn.com/media/p/8/000/1ac/18a/217c0bb.jpg" alt="Jeremy Wyld" class="img-responsive img-circle">
 				<h4>Jeremy Wyld</h4>
-				<p>Founder Quake Labs, iPhone and iPad teams, @Home, Apple Newton</p>
+				<p>Founder Quake Labs, iPhone and iPad teams, Excite@Home, Apple Newton</p>
 			</div>
 			<div class="col-sm-3">
 				<img src="/wp-content/themes/cola-theme/images/brian-maggi.jpg" alt="Brian Maggi" class="img-responsive img-circle">
@@ -102,12 +102,12 @@
 			<div class="col-sm-4">
 				<img src="/wp-content/themes/cola-theme/images/oliver-steele.png" alt="Oliver Steele" class="img-responsive img-circle">
 				<h4>Oliver Steele</h4>
-				<p>CTO, Chief Software Architect, Direct of Product Management; Apple, Nest, AOL, Laszlo.</p>
+				<p>CTO, Chief Software Architect, Directof of Product Management; Apple, Nest, AOL, Laszlo.</p>
 			</div>
 			<div class="col-sm-4">
 				<img src="/wp-content/themes/cola-theme/images/max-carlson.jpg" alt="Max Carlson" class="img-responsive img-circle">
 				<h4>Max Carlson</h4>
-				<p>Laszlo, @Home, Nest</p>
+				<p>Laszlo, Excite@Home, Nest</p>
 			</div>
 		</div>
 	</div>
