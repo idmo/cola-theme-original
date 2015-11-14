@@ -25,6 +25,11 @@
         <div class="swiper-slide" id="f4">
         	<p>One Cola Bubble does the<br />job of dozens of texts.</p>
         </div>
+        <div class="swiper-slide" id="f5">
+        	<p>An open API means others<br >
+         can build their own Cola Bubbles.</p>
+        </div>
+
     </div>
     <div class="swiper-pagination"></div>
     <div class="swiper-button-prev"></div>

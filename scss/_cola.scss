@@ -130,3 +130,12 @@ section h3 {
 		text-align: center;
 	}
 }
+
+#f5 {
+	background: url($images_dir + 'test/f5.png') no-repeat;
+	background-size: cover;
+	background-position: center;
+	p {
+		text-align: center;
+	}
+}
