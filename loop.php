@@ -9,7 +9,7 @@
 				
 					<?php if (has_post_thumbnail() and !is_singular()): ?>
 						<div class="featured-image">
-							<a href="<?php the_permalink() ?>" title="<?php the_title_attribute() ?>"><?php the_post_thumbnail() ?></a>
+							<a href="<?php the_permalink() ?>" title="<?php the_title_attribute() ?>"><?php the_post_thumbnail( 'large', array('class' => 'img-responsive') 	) ?></a>
 						</div>
 					<?php endif; ?>
 					<h3 class="article-title"><?php if(!is_singular()): ?><a href="<?php the_permalink() ?>" title="<?php the_title_attribute() ?>"><?php endif; the_title() ?><?php if(!is_singular()): ?></a><?php endif; ?></h3>
@@ -18,6 +18,10 @@
 					</div>
 				<div class="article-content">
 					<?php (is_single()) ? the_content() : the_excerpt() ?>
+				</div>
+				<div class="categories">
+					<?php _e( '<strong>Posted in</strong>' ); ?> <?php the_category( ', ' ); ?> | 
+					<?php _e( '<strong>Tags</strong>' ); ?> <?php the_tags( ', ' ); ?>
 				</div>
 			</article>
 			<hr />
