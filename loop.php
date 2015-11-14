@@ -12,9 +12,9 @@
 							<a href="<?php the_permalink() ?>" title="<?php the_title_attribute() ?>"><?php the_post_thumbnail() ?></a>
 						</div>
 					<?php endif; ?>
-					<h1 class="article-title"><?php if(!is_singular()): ?><a href="<?php the_permalink() ?>" title="<?php the_title_attribute() ?>"><?php endif; the_title() ?><?php if(!is_singular()): ?></a><?php endif; ?></h1>
+					<h3 class="article-title"><?php if(!is_singular()): ?><a href="<?php the_permalink() ?>" title="<?php the_title_attribute() ?>"><?php endif; the_title() ?><?php if(!is_singular()): ?></a><?php endif; ?></h3>
 					<div class="article-info">
-						<span class="date"><?php the_date('l, F j, Y') ?>, by <strong><?php the_author(); ?></strong></span>
+						<span class="date"><?php the_time('l F j, Y') ?>, by <strong><?php the_author(); ?></strong></span>
 					</div>
 					<hr />
 
