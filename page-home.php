@@ -1,6 +1,14 @@
 <?php get_header(); ?> 
 
-
+<section id="tagline">
+<div class="container">
+	<div class="row">
+		<div class="col-md-12">
+			<p>Don't just text. Do Something.</p>
+		</div>
+	</div>
+</div>	
+</section>
 
 <!-- Slider main container -->
 
@@ -36,15 +44,7 @@
     <div class="swiper-button-next"></div>
 </div>
 
-<section id="tagline">
-<div class="container">
-	<div class="row">
-		<div class="col-md-12">
-			<p>Don't just text. Do Something.</p>
-		</div>
-	</div>
-</div>	
-</section>
+
 
 <section id="private-beta">
 <div class="container">
@@ -53,7 +53,23 @@
 </div>
 </section>
 
-
+<section id="press">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h3><a href="/blog">In the News</a></h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-xs-6 col-md-2"><img src="/wp-content/themes/cola-theme/images/press-logos/nytimes.png" alt="" class="img-responsive"></div>
+			<div class="col-xs-6 col-md-2"><img src="/wp-content/themes/cola-theme/images/press-logos/forbes.png" alt="" class="img-responsive"></div>
+			<div class="col-xs-6 col-md-2"><img src="/wp-content/themes/cola-theme/images/press-logos/techcrunch.png" alt="" class="img-responsive"></div>
+			<div class="col-xs-6 col-md-2"><img src="/wp-content/themes/cola-theme/images/press-logos/usa-today.png" alt="" class="img-responsive"></div>
+			<div class="col-xs-6 col-md-2"><img src="/wp-content/themes/cola-theme/images/press-logos/business-insider.png" alt="" class="img-responsive"></div>
+			<div class="col-xs-6 col-md-2"><img src="/wp-content/themes/cola-theme/images/press-logos/techmeme.png" alt="" class="img-responsive"></div>
+		</div>
+	</div>
+</section>
 <section id="team">
 	<div class="container">
 		<div class="row">

@@ -15,7 +15,7 @@ footer {
 
 
 body {
-	background-color: $color_primary;
+	background-color: $color_white;
 }
 
 section {
@@ -29,15 +29,16 @@ section {
 	color: $color_white;
 	font-size: 200%;
 	font-family: "Raleway";
-	padding: 20px 0;
+	padding: 6px 0 0px 0;
 }
 #private-beta {
-	background-color: #fff;
+	background-color: lighten($color_primary, 30%);
 	color: #444;
 	text-align: center;
 	form {
 		text-align: left;
 	}
+	border-top: 3px solid darken($color_primary, 30%);
 }
 
 #team {
@@ -58,6 +59,24 @@ section {
 	}
 }
 
+#press {
+	background-color: $color_white;
+	border-top: 3px solid darken($color_primary, 30%);	
+	border-bottom: 3px solid darken($color_primary, 30%);
+	h4 {
+		font-family: "Raleway";
+		font-size: 22px;
+		margin-bottom: 0;
+		text-align: center;
+	}
+}
+
+footer {
+	a .fa {
+		color: $color_white;
+		margin-left: 12px;
+	}
+}
 
 /*----------  Global Nav  ----------*/
 
@@ -71,9 +90,9 @@ h1, h2, h3 {
 }
 
 section h3 {
-	font-size: 48px;
+	font-size: 36px;
 	text-align: center;
-	margin-bottom: 50px;
+	margin-bottom: 30px;
 }
 
 /*----------  Swiper  ----------*/
@@ -139,3 +158,17 @@ section h3 {
 		text-align: center;
 	}
 }
+
+
+/*----------  Blog  ----------*/
+#page-sidebar {
+	ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+}
+
+
+
+
