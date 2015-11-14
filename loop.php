@@ -16,12 +16,11 @@
 					<div class="article-info">
 						<span class="date"><?php the_time('l F j, Y') ?>, by <strong><?php the_author(); ?></strong></span>
 					</div>
-					<hr />
-
 				<div class="article-content">
 					<?php (is_single()) ? the_content() : the_excerpt() ?>
 				</div>
 			</article>
+			<hr />
 		<?php endwhile; ?>
 	<?php else: ?>
 		<p>Nothing matches your query.</p>
