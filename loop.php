@@ -13,12 +13,12 @@
 						</div>
 					<?php endif; ?>
 					<h3 class="article-title"><?php if(!is_singular()): ?><a href="<?php the_permalink() ?>" title="<?php the_title_attribute() ?>"><?php endif; the_title() ?><?php if(!is_singular()): ?></a><?php endif; ?></h3>
-					<div class="article-info">
-						<span class="date"><?php the_time('l F j, Y') ?>, by <strong><?php the_author(); ?></strong></span>
-					</div>
-				<div class="article-content">
-					<?php (is_single()) ? the_content() : the_excerpt() ?>
+				<div class="article-content">					
+					<?php the_content(); ?>					
 				</div>
+				<div class="article-info">
+					<span class="date"><?php the_time('l F j, Y') ?>, Posted by <strong><?php the_author(); ?></strong></span>
+				</div>				
 				<div class="categories">
 					<?php _e( '<strong>Posted in</strong>' ); ?> <?php the_category( ', ' ); ?> | 
 					<?php _e( '<strong>Tags</strong>' ); ?> <?php the_tags( ', ' ); ?>
