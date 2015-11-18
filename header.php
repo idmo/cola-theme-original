@@ -23,7 +23,7 @@
 		<a href="/" class="logo">
 			<img src="/wp-content/themes/cola-theme/images/cola-logo-home.png" alt="Cola Logo" class="img-responsive">	
 		</a>
-		<a href="#private-beta" class="btn btn-primary pull-right" id="beta-button">Sign Up for the Beta</a>		
+		<a href="/#private-beta" class="btn btn-primary pull-right" id="beta-button">Sign Up for the Beta</a>		
 	</header>	
 		
 
