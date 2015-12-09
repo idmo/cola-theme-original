@@ -76,23 +76,16 @@
 			<h3>Meet the Cola Team</h3>
 		</div>
 		<div class="row">
-			<div class="col-sm-4">
+			<div class="col-sm-3">
 				<img src="https://media.licdn.com/media/p/2/005/009/0a5/0058350.jpg" alt="David Temkin" class="img-responsive img-circle">
 				<h4>David Temkin, CEO</h4>
 				<p>Founder Laszlo Systems, Worked at Apple, AOL, Studied at Brown </p>
 			</div>
-			<div class="col-sm-4">
-				<img src="https://media.licdn.com/media/p/3/000/003/108/1a69531.jpg" alt="Marc Canter" class="img-responsive img-circle">
-				<h4>Marc Canter</h4>
-				<p>Founder MacroMind / Macromedia, Interactive Music pioneer, Digital City Project</p>
-			</div>
-			<div class="col-sm-4">
+			<div class="col-sm-3">
 				<img src="/wp-content/themes/cola-theme/images/mike-mcevoy.jpg" alt="Mike McEvoy" class="img-responsive img-circle">
 				<h4>Mike McEvoy</h4>
 				<p>VP of Engineering, Johnson &amp; Johnson, Adobe Photoshop team</p>
 			</div>
-		</div><!-- end row 1 -->
-		<div class="row">
 			<div class="col-sm-3">
 				<img src="https://media.licdn.com/media/p/8/000/1ac/18a/217c0bb.jpg" alt="Jeremy Wyld" class="img-responsive img-circle">
 				<h4>Jeremy Wyld</h4>
@@ -102,30 +95,30 @@
 				<img src="/wp-content/themes/cola-theme/images/brian-maggi.jpg" alt="Brian Maggi" class="img-responsive img-circle">
 				<h4>Brian Maggi</h4>
 				<p>Founder Postini, Apple Newton and iMac teams</p>
-			</div>
-			<div class="col-sm-3">
+			</div>			
+		</div><!-- end row 1 -->
+		<div class="row">	
+			<div class="col-md-15 col-sm-3">
 				<img src="/wp-content/themes/cola-theme/images/tom-broadbent.jpg" alt="Tom Broadbent" class="img-responsive img-circle">
 				<h4>Tom Broadbent</h4>
 				<p>Northrup Grumman, Zing, Dell, Plastic Logic, PayPal, Duff</p>
 			</div>
-			<div class="col-sm-3">
+			<div class="col-md-15 col-sm-3">
 				<img src="/wp-content/themes/cola-theme/images/dave-good.jpg" alt="Dave Good" class="img-responsive img-circle">
 				<h4>Dave Good</h4>
 				<p>Engineering Director PayPal and Eventbrite, Partner Duff, Microsoft, Adobe</p>
 			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-4">
+			<div class="col-md-15 col-sm-3">
 				<img src="https://media.licdn.com/media/AAEAAQAAAAAAAAJkAAAAJDBmMTVkOWNjLTc2MzYtNGNjZi05NzJiLWUzNzU0MTM5YTEyYQ.jpg" alt="Erin Rosenthal" class="img-responsive img-circle">
 				<h4>Erin Rosenthal</h4>
 				<p>Apple iPhone and iPad teams, Google Keep Team</p>
 			</div>
-			<div class="col-sm-4">
+			<div class="col-md-15 col-sm-3">
 				<img src="/wp-content/themes/cola-theme/images/oliver-steele.png" alt="Oliver Steele" class="img-responsive img-circle">
 				<h4>Oliver Steele</h4>
 				<p>CTO, Chief Software Architect, Director of Product Management; Apple, Nest, AOL, Laszlo.</p>
 			</div>
-			<div class="col-sm-4">
+			<div class="col-md-15 col-sm-3">
 				<img src="/wp-content/themes/cola-theme/images/max-carlson.jpg" alt="Max Carlson" class="img-responsive img-circle">
 				<h4>Max Carlson</h4>
 				<p>Laszlo, Excite@Home, Nest</p>
