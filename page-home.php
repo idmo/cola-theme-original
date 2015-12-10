@@ -46,12 +46,6 @@
 
 
 
-<section id="private-beta">
-<div class="container">
-	<h3>Sign up for the private iPhone beta</h3>
-	<?php get_template_part('loop', 'home'); ?>
-</div>
-</section>
 
 <section id="press">
 	<div class="container">
