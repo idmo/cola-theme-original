@@ -227,6 +227,9 @@ footer {
   border-top: 15px solid #333;
   margin-top: 12px;
 }
+footer a {
+  color: #fff;
+}
 
 body {
   background-color: #fff;
